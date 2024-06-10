@@ -1,0 +1,2471 @@
+2024-05-28 04:53:05,630 - DEBUG - Accepted connection from ('127.0.0.1', 44998)
+2024-05-28 04:53:05,632 - DEBUG - Client authentication methods: b'\x00\x01\x02'
+2024-05-28 04:53:05,636 - DEBUG - Received username: user, password: password
+2024-05-28 04:53:05,647 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:53:05,648 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:53:05,648 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:53:15,502 - DEBUG - Accepted connection from ('127.0.0.1', 60828)
+2024-05-28 04:53:15,504 - DEBUG - Client authentication methods: b'\x00\x01\x02'
+2024-05-28 04:53:15,508 - DEBUG - Received username: user, password: password
+2024-05-28 04:53:15,519 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:53:15,519 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:53:15,520 - DEBUG - Connecting to 93.184.215.14:443
+2024-05-28 04:53:25,206 - DEBUG - Accepted connection from ('127.0.0.1', 45584)
+2024-05-28 04:53:25,208 - DEBUG - Client authentication methods: b'\x00\x01\x02'
+2024-05-28 04:53:25,209 - DEBUG - Received username: user, password: password
+2024-05-28 04:53:26,352 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:53:26,352 - DEBUG - Resolved IPv4 address: 80.249.99.148
+2024-05-28 04:53:26,353 - DEBUG - Connecting to 80.249.99.148:80
+2024-05-28 04:55:44,709 - DEBUG - Accepted connection from ('127.0.0.1', 47510)
+2024-05-28 04:55:44,723 - DEBUG - Client authentication methods: b'\x00\x01\x02'
+2024-05-28 04:55:44,723 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:44,775 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:44,775 - DEBUG - Resolved IPv4 address: 34.198.16.126
+2024-05-28 04:55:44,776 - DEBUG - Connecting to 34.198.16.126:80
+2024-05-28 04:55:56,798 - DEBUG - Accepted connection from ('127.0.0.1', 41104)
+2024-05-28 04:55:56,800 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:55:56,802 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:56,802 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:56,803 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:55:56,803 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:55:57,107 - DEBUG - Accepted connection from ('127.0.0.1', 41110)
+2024-05-28 04:55:57,109 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:55:57,110 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:57,110 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:57,111 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:55:57,111 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:55:57,397 - DEBUG - Accepted connection from ('127.0.0.1', 41126)
+2024-05-28 04:55:57,399 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:55:57,400 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:57,401 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:57,402 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:55:57,403 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:55:57,543 - DEBUG - Accepted connection from ('127.0.0.1', 43512)
+2024-05-28 04:55:57,545 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:55:57,546 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:57,547 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:57,548 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:55:57,548 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:55:57,696 - DEBUG - Accepted connection from ('127.0.0.1', 43526)
+2024-05-28 04:55:57,697 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:55:57,698 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:57,699 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:57,699 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:55:57,700 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:55:57,844 - DEBUG - Accepted connection from ('127.0.0.1', 43530)
+2024-05-28 04:55:57,845 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:55:57,846 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:57,846 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:57,846 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:55:57,846 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:55:57,986 - DEBUG - Accepted connection from ('127.0.0.1', 43536)
+2024-05-28 04:55:57,988 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:55:57,988 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:57,989 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:57,991 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:55:57,992 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:55:58,131 - DEBUG - Accepted connection from ('127.0.0.1', 43544)
+2024-05-28 04:55:58,132 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:55:58,133 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:58,134 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:58,135 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:55:58,136 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:55:58,281 - DEBUG - Accepted connection from ('127.0.0.1', 43548)
+2024-05-28 04:55:58,283 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:55:58,284 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:58,285 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:58,285 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:55:58,286 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:55:58,426 - DEBUG - Accepted connection from ('127.0.0.1', 43564)
+2024-05-28 04:55:58,427 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:55:58,428 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:58,441 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:58,446 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:55:58,446 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:55:58,585 - DEBUG - Accepted connection from ('127.0.0.1', 43574)
+2024-05-28 04:55:58,586 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:55:58,587 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:58,588 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:58,589 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:55:58,590 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:55:58,733 - DEBUG - Accepted connection from ('127.0.0.1', 43578)
+2024-05-28 04:55:58,737 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:55:58,738 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:58,739 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:58,740 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:55:58,740 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:55:58,881 - DEBUG - Accepted connection from ('127.0.0.1', 43580)
+2024-05-28 04:55:58,882 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:55:58,882 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:58,883 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:58,883 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:55:58,883 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:55:59,026 - DEBUG - Accepted connection from ('127.0.0.1', 43592)
+2024-05-28 04:55:59,031 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:55:59,032 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:59,033 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:59,033 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:55:59,038 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:55:59,182 - DEBUG - Accepted connection from ('127.0.0.1', 43608)
+2024-05-28 04:55:59,184 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:55:59,184 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:59,185 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:59,185 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:55:59,186 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:55:59,326 - DEBUG - Accepted connection from ('127.0.0.1', 43622)
+2024-05-28 04:55:59,327 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:55:59,328 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:59,329 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:59,329 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:55:59,330 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:55:59,470 - DEBUG - Accepted connection from ('127.0.0.1', 43630)
+2024-05-28 04:55:59,471 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:55:59,472 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:59,472 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:59,472 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:55:59,473 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:55:59,620 - DEBUG - Accepted connection from ('127.0.0.1', 43634)
+2024-05-28 04:55:59,623 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:55:59,624 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:59,625 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:59,625 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:55:59,626 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:55:59,765 - DEBUG - Accepted connection from ('127.0.0.1', 43640)
+2024-05-28 04:55:59,767 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:55:59,768 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:59,769 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:59,770 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:55:59,771 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:55:59,913 - DEBUG - Accepted connection from ('127.0.0.1', 43642)
+2024-05-28 04:55:59,914 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:55:59,914 - DEBUG - Received username: user, password: password
+2024-05-28 04:55:59,914 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:55:59,915 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:55:59,915 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:00,053 - DEBUG - Accepted connection from ('127.0.0.1', 43654)
+2024-05-28 04:56:00,054 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:00,054 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:00,055 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:00,055 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:00,055 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:00,218 - DEBUG - Accepted connection from ('127.0.0.1', 43658)
+2024-05-28 04:56:00,219 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:00,219 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:00,220 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:00,220 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:00,220 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:00,362 - DEBUG - Accepted connection from ('127.0.0.1', 43674)
+2024-05-28 04:56:00,363 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:00,364 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:00,365 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:00,365 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:00,366 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:00,507 - DEBUG - Accepted connection from ('127.0.0.1', 43678)
+2024-05-28 04:56:00,508 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:00,509 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:00,509 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:00,510 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:00,510 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:00,655 - DEBUG - Accepted connection from ('127.0.0.1', 43688)
+2024-05-28 04:56:00,657 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:00,657 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:00,659 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:00,660 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:00,661 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:00,802 - DEBUG - Accepted connection from ('127.0.0.1', 43700)
+2024-05-28 04:56:00,805 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:00,806 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:00,807 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:00,808 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:00,809 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:00,952 - DEBUG - Accepted connection from ('127.0.0.1', 43716)
+2024-05-28 04:56:00,952 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:00,953 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:00,953 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:00,954 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:00,954 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:01,092 - DEBUG - Accepted connection from ('127.0.0.1', 43718)
+2024-05-28 04:56:01,093 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:01,096 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:01,096 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:01,097 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:01,097 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:01,240 - DEBUG - Accepted connection from ('127.0.0.1', 43730)
+2024-05-28 04:56:01,241 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:01,242 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:01,242 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:01,243 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:01,243 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:01,392 - DEBUG - Accepted connection from ('127.0.0.1', 43744)
+2024-05-28 04:56:01,393 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:01,393 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:01,393 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:01,394 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:01,394 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:01,538 - DEBUG - Accepted connection from ('127.0.0.1', 43748)
+2024-05-28 04:56:01,542 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:01,543 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:01,543 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:01,544 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:01,544 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:01,682 - DEBUG - Accepted connection from ('127.0.0.1', 43764)
+2024-05-28 04:56:01,684 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:01,684 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:01,685 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:01,686 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:01,686 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:01,827 - DEBUG - Accepted connection from ('127.0.0.1', 43768)
+2024-05-28 04:56:01,828 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:01,833 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:01,833 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:01,834 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:01,834 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:01,983 - DEBUG - Accepted connection from ('127.0.0.1', 43776)
+2024-05-28 04:56:01,985 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:01,986 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:01,987 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:01,988 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:01,988 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:02,135 - DEBUG - Accepted connection from ('127.0.0.1', 43792)
+2024-05-28 04:56:02,136 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:02,136 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:02,139 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:02,139 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:02,140 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:02,283 - DEBUG - Accepted connection from ('127.0.0.1', 43808)
+2024-05-28 04:56:02,284 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:02,285 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:02,286 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:02,287 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:02,288 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:02,428 - DEBUG - Accepted connection from ('127.0.0.1', 43814)
+2024-05-28 04:56:02,430 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:02,431 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:02,432 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:02,432 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:02,433 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:02,576 - DEBUG - Accepted connection from ('127.0.0.1', 43828)
+2024-05-28 04:56:02,577 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:02,577 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:02,578 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:02,578 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:02,578 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:02,794 - DEBUG - Accepted connection from ('127.0.0.1', 43838)
+2024-05-28 04:56:02,795 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:02,796 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:02,796 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:02,797 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:02,797 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:02,944 - DEBUG - Accepted connection from ('127.0.0.1', 43844)
+2024-05-28 04:56:02,963 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:02,964 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:02,964 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:02,964 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:02,965 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:03,103 - DEBUG - Accepted connection from ('127.0.0.1', 43850)
+2024-05-28 04:56:03,103 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:03,104 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:03,104 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:03,105 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:03,105 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:03,243 - DEBUG - Accepted connection from ('127.0.0.1', 43864)
+2024-05-28 04:56:03,244 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:03,245 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:03,245 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:03,246 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:03,246 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:03,385 - DEBUG - Accepted connection from ('127.0.0.1', 43866)
+2024-05-28 04:56:03,387 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:03,388 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:03,389 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:03,389 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:03,390 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:03,532 - DEBUG - Accepted connection from ('127.0.0.1', 43870)
+2024-05-28 04:56:03,534 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:03,535 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:03,536 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:03,537 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:03,538 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:03,681 - DEBUG - Accepted connection from ('127.0.0.1', 43880)
+2024-05-28 04:56:03,682 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:03,683 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:03,684 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:03,685 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:03,686 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:03,826 - DEBUG - Accepted connection from ('127.0.0.1', 43886)
+2024-05-28 04:56:03,827 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:03,828 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:03,829 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:03,829 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:03,830 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:03,969 - DEBUG - Accepted connection from ('127.0.0.1', 43900)
+2024-05-28 04:56:03,970 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:03,970 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:03,971 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:03,971 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:03,971 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:04,110 - DEBUG - Accepted connection from ('127.0.0.1', 43906)
+2024-05-28 04:56:04,112 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:04,114 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:04,115 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:04,116 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:04,117 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:04,258 - DEBUG - Accepted connection from ('127.0.0.1', 43920)
+2024-05-28 04:56:04,260 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:04,261 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:04,261 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:04,262 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:04,262 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:04,401 - DEBUG - Accepted connection from ('127.0.0.1', 43928)
+2024-05-28 04:56:04,402 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:04,403 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:04,404 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:04,404 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:04,405 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:04,544 - DEBUG - Accepted connection from ('127.0.0.1', 43938)
+2024-05-28 04:56:04,546 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:04,547 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:04,548 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:04,548 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:04,549 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:04,690 - DEBUG - Accepted connection from ('127.0.0.1', 43954)
+2024-05-28 04:56:04,692 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:04,693 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:04,694 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:04,695 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:04,696 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:04,841 - DEBUG - Accepted connection from ('127.0.0.1', 43962)
+2024-05-28 04:56:04,843 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:04,843 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:04,844 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:04,845 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:04,846 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:04,986 - DEBUG - Accepted connection from ('127.0.0.1', 43976)
+2024-05-28 04:56:04,988 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:04,989 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:04,990 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:04,990 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:04,991 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:05,133 - DEBUG - Accepted connection from ('127.0.0.1', 43980)
+2024-05-28 04:56:05,135 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:05,136 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:05,137 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:05,137 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:05,138 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:05,279 - DEBUG - Accepted connection from ('127.0.0.1', 43984)
+2024-05-28 04:56:05,283 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:05,284 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:05,285 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:05,285 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:05,286 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:05,425 - DEBUG - Accepted connection from ('127.0.0.1', 43996)
+2024-05-28 04:56:05,427 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:05,427 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:05,428 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:05,429 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:05,430 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:05,571 - DEBUG - Accepted connection from ('127.0.0.1', 44010)
+2024-05-28 04:56:05,572 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:05,573 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:05,574 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:05,575 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:05,576 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:05,716 - DEBUG - Accepted connection from ('127.0.0.1', 44016)
+2024-05-28 04:56:05,718 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:05,719 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:05,719 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:05,720 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:05,721 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:05,863 - DEBUG - Accepted connection from ('127.0.0.1', 44028)
+2024-05-28 04:56:05,865 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:05,866 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:05,866 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:05,867 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:05,868 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:06,008 - DEBUG - Accepted connection from ('127.0.0.1', 44044)
+2024-05-28 04:56:06,009 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:06,010 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:06,011 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:06,011 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:06,012 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:06,150 - DEBUG - Accepted connection from ('127.0.0.1', 44060)
+2024-05-28 04:56:06,150 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:06,151 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:06,151 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:06,152 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:06,152 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:06,293 - DEBUG - Accepted connection from ('127.0.0.1', 44068)
+2024-05-28 04:56:06,294 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:06,295 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:06,295 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:06,296 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:06,296 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:06,435 - DEBUG - Accepted connection from ('127.0.0.1', 44082)
+2024-05-28 04:56:06,437 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:06,437 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:06,439 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:06,440 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:06,440 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:06,588 - DEBUG - Accepted connection from ('127.0.0.1', 44088)
+2024-05-28 04:56:06,590 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:06,591 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:06,591 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:06,591 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:06,592 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:06,737 - DEBUG - Accepted connection from ('127.0.0.1', 44094)
+2024-05-28 04:56:06,741 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:06,743 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:06,743 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:06,744 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:06,744 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:06,889 - DEBUG - Accepted connection from ('127.0.0.1', 44096)
+2024-05-28 04:56:06,891 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:06,892 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:06,892 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:06,893 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:06,893 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:07,032 - DEBUG - Accepted connection from ('127.0.0.1', 44112)
+2024-05-28 04:56:07,033 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:07,034 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:07,035 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:07,036 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:07,036 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:07,175 - DEBUG - Accepted connection from ('127.0.0.1', 44122)
+2024-05-28 04:56:07,177 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:07,178 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:07,180 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:07,180 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:07,181 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:07,332 - DEBUG - Accepted connection from ('127.0.0.1', 44132)
+2024-05-28 04:56:07,333 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:07,334 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:07,335 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:07,335 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:07,336 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:07,476 - DEBUG - Accepted connection from ('127.0.0.1', 37392)
+2024-05-28 04:56:07,477 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:07,478 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:07,479 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:07,480 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:07,480 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:07,622 - DEBUG - Accepted connection from ('127.0.0.1', 37400)
+2024-05-28 04:56:07,623 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:07,624 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:07,624 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:07,625 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:07,625 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:07,783 - DEBUG - Accepted connection from ('127.0.0.1', 37402)
+2024-05-28 04:56:07,785 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:07,786 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:07,787 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:07,787 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:07,788 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:07,926 - DEBUG - Accepted connection from ('127.0.0.1', 37410)
+2024-05-28 04:56:07,927 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:07,927 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:07,928 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:07,928 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:07,929 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:08,070 - DEBUG - Accepted connection from ('127.0.0.1', 37426)
+2024-05-28 04:56:08,071 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:08,071 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:08,072 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:08,072 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:08,073 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:08,221 - DEBUG - Accepted connection from ('127.0.0.1', 37432)
+2024-05-28 04:56:08,222 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:08,223 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:08,224 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:08,224 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:08,225 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:08,385 - DEBUG - Accepted connection from ('127.0.0.1', 37448)
+2024-05-28 04:56:08,386 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:08,387 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:08,387 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:08,387 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:08,388 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:08,537 - DEBUG - Accepted connection from ('127.0.0.1', 37460)
+2024-05-28 04:56:08,539 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:08,540 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:08,541 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:08,542 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:08,543 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:08,683 - DEBUG - Accepted connection from ('127.0.0.1', 37470)
+2024-05-28 04:56:08,685 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:08,686 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:08,687 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:08,688 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:08,689 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:08,835 - DEBUG - Accepted connection from ('127.0.0.1', 37484)
+2024-05-28 04:56:08,836 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:08,836 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:08,837 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:08,837 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:08,838 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:08,976 - DEBUG - Accepted connection from ('127.0.0.1', 37488)
+2024-05-28 04:56:08,978 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:08,979 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:08,980 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:08,980 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:08,981 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:09,121 - DEBUG - Accepted connection from ('127.0.0.1', 37492)
+2024-05-28 04:56:09,123 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:09,124 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:09,125 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:09,126 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:09,127 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:09,274 - DEBUG - Accepted connection from ('127.0.0.1', 37500)
+2024-05-28 04:56:09,276 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:09,277 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:09,277 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:09,278 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:09,279 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:09,424 - DEBUG - Accepted connection from ('127.0.0.1', 37506)
+2024-05-28 04:56:09,425 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:09,426 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:09,427 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:09,428 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:09,429 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:09,590 - DEBUG - Accepted connection from ('127.0.0.1', 37514)
+2024-05-28 04:56:09,591 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:09,592 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:09,593 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:09,593 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:09,593 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:09,733 - DEBUG - Accepted connection from ('127.0.0.1', 37530)
+2024-05-28 04:56:09,735 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:09,736 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:09,737 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:09,738 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:09,738 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:09,882 - DEBUG - Accepted connection from ('127.0.0.1', 37546)
+2024-05-28 04:56:09,883 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:09,884 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:09,885 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:09,886 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:09,887 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:10,041 - DEBUG - Accepted connection from ('127.0.0.1', 37552)
+2024-05-28 04:56:10,043 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:10,044 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:10,045 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:10,045 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:10,046 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:10,247 - DEBUG - Accepted connection from ('127.0.0.1', 37554)
+2024-05-28 04:56:10,248 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:10,249 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:10,250 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:10,250 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:10,251 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:10,426 - DEBUG - Accepted connection from ('127.0.0.1', 37556)
+2024-05-28 04:56:10,427 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:10,428 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:10,429 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:10,429 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:10,430 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:10,609 - DEBUG - Accepted connection from ('127.0.0.1', 37562)
+2024-05-28 04:56:10,611 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:10,612 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:10,613 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:10,614 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:10,615 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:10,865 - DEBUG - Accepted connection from ('127.0.0.1', 37568)
+2024-05-28 04:56:10,867 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:10,868 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:10,869 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:10,870 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:10,871 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:11,067 - DEBUG - Accepted connection from ('127.0.0.1', 37582)
+2024-05-28 04:56:11,069 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:11,070 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:11,071 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:11,072 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:11,072 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:11,272 - DEBUG - Accepted connection from ('127.0.0.1', 37586)
+2024-05-28 04:56:11,273 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:11,274 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:11,275 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:11,276 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:11,277 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:11,477 - DEBUG - Accepted connection from ('127.0.0.1', 37590)
+2024-05-28 04:56:11,478 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:11,479 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:11,480 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:11,481 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:11,482 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:11,682 - DEBUG - Accepted connection from ('127.0.0.1', 37600)
+2024-05-28 04:56:11,684 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:11,685 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:11,685 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:11,686 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:11,687 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:11,889 - DEBUG - Accepted connection from ('127.0.0.1', 37604)
+2024-05-28 04:56:11,891 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:11,892 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:11,892 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:11,893 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:11,893 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:12,090 - DEBUG - Accepted connection from ('127.0.0.1', 37616)
+2024-05-28 04:56:12,092 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:12,093 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:12,093 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:12,094 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:12,094 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:12,355 - DEBUG - Accepted connection from ('127.0.0.1', 37624)
+2024-05-28 04:56:12,356 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:12,357 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:12,358 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:12,359 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:12,359 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:12,539 - DEBUG - Accepted connection from ('127.0.0.1', 37638)
+2024-05-28 04:56:12,541 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:12,541 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:12,542 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:12,543 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:12,543 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:56:12,683 - DEBUG - Accepted connection from ('127.0.0.1', 37646)
+2024-05-28 04:56:12,685 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:56:12,686 - DEBUG - Received username: user, password: password
+2024-05-28 04:56:12,687 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:56:12,688 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:56:12,689 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:57:53,248 - DEBUG - Accepted connection from ('127.0.0.1', 59950)
+2024-05-28 04:57:53,250 - DEBUG - Client authentication methods: b'\x02'
+2024-05-28 04:57:53,250 - DEBUG - Received username: user, password: password
+2024-05-28 04:57:53,256 - DEBUG - Command: 3, Address type: 1
+2024-05-28 04:57:53,262 - DEBUG - Resolved IPv4 address: 0.0.0.0
+2024-05-28 04:57:53,262 - DEBUG - Connecting to 0.0.0.0:0
+2024-05-28 04:57:53,263 - DEBUG - UDP socket allocation requested by ('127.0.0.1', 59950)
+2024-05-28 04:57:53,263 - DEBUG - UDP socket bound to port 57593
+2024-05-28 04:58:09,383 - DEBUG - Accepted connection from ('127.0.0.1', 46004)
+2024-05-28 04:58:09,384 - DEBUG - Client authentication methods: b'\x02'
+2024-05-28 04:58:09,384 - DEBUG - Received username: user, password: password
+2024-05-28 04:58:09,385 - DEBUG - Command: 3, Address type: 1
+2024-05-28 04:58:09,385 - DEBUG - Resolved IPv4 address: 0.0.0.0
+2024-05-28 04:58:09,386 - DEBUG - Connecting to 0.0.0.0:0
+2024-05-28 04:58:09,386 - DEBUG - UDP socket allocation requested by ('127.0.0.1', 46004)
+2024-05-28 04:58:09,387 - DEBUG - UDP socket bound to port 34494
+2024-05-28 04:58:22,128 - DEBUG - Accepted connection from ('127.0.0.1', 46562)
+2024-05-28 04:58:22,135 - DEBUG - Client authentication methods: b'\x00\x01\x02'
+2024-05-28 04:58:22,136 - DEBUG - Received username: wronguser, password: wrongpassword
+2024-05-28 04:58:40,691 - DEBUG - Accepted connection from ('127.0.0.1', 54092)
+2024-05-28 04:58:40,697 - DEBUG - Client authentication methods: b'\x00\x01\x02'
+2024-05-28 04:58:40,710 - DEBUG - Received username: user, password: password
+2024-05-28 04:58:41,653 - ERROR - Error with client ('127.0.0.1', 54092): unpack requires a buffer of 4 bytes
+2024-05-28 04:58:57,760 - DEBUG - Accepted connection from ('127.0.0.1', 57860)
+2024-05-28 04:58:57,766 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:58:57,767 - DEBUG - Received username: user, password: password
+2024-05-28 04:58:57,768 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:58:57,769 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:58:57,769 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:11,663 - DEBUG - Accepted connection from ('127.0.0.1', 36118)
+2024-05-28 04:59:11,673 - DEBUG - Accepted connection from ('127.0.0.1', 36122)
+2024-05-28 04:59:11,674 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:11,674 - DEBUG - Accepted connection from ('127.0.0.1', 36124)
+2024-05-28 04:59:11,675 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:11,675 - DEBUG - Accepted connection from ('127.0.0.1', 36134)
+2024-05-28 04:59:11,676 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:11,676 - DEBUG - Accepted connection from ('127.0.0.1', 36146)
+2024-05-28 04:59:11,677 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:11,678 - DEBUG - Accepted connection from ('127.0.0.1', 36154)
+2024-05-28 04:59:11,678 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:11,677 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:11,682 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:11,682 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:11,678 - DEBUG - Accepted connection from ('127.0.0.1', 36162)
+2024-05-28 04:59:11,679 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:11,682 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:11,684 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:11,684 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:11,682 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:11,685 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:11,686 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:11,676 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:11,684 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:11,678 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:11,684 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:11,683 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:11,684 - DEBUG - Accepted connection from ('127.0.0.1', 36184)
+2024-05-28 04:59:11,687 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:11,687 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:11,688 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:11,689 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:11,690 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:11,690 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:11,689 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:11,690 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:11,689 - DEBUG - Accepted connection from ('127.0.0.1', 36188)
+2024-05-28 04:59:11,689 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:11,691 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:11,691 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:11,691 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:11,690 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:11,693 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:11,689 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:11,693 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:11,694 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:11,694 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:11,691 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:11,693 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:11,695 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:11,695 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:11,695 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:11,696 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:11,696 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:11,986 - DEBUG - Accepted connection from ('127.0.0.1', 36190)
+2024-05-28 04:59:11,987 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:11,989 - DEBUG - Accepted connection from ('127.0.0.1', 36200)
+2024-05-28 04:59:11,993 - DEBUG - Accepted connection from ('127.0.0.1', 36204)
+2024-05-28 04:59:11,996 - DEBUG - Accepted connection from ('127.0.0.1', 36218)
+2024-05-28 04:59:11,997 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:11,997 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:11,998 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:11,998 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:11,998 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:11,998 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:11,999 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:11,999 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:11,999 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:11,999 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,000 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,001 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,000 - DEBUG - Accepted connection from ('127.0.0.1', 36220)
+2024-05-28 04:59:12,001 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,002 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,002 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,002 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,000 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,003 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,003 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,003 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,001 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,004 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,005 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,005 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,017 - DEBUG - Accepted connection from ('127.0.0.1', 36232)
+2024-05-28 04:59:12,018 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,018 - DEBUG - Accepted connection from ('127.0.0.1', 36238)
+2024-05-28 04:59:12,018 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,018 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,019 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,019 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,019 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,019 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,020 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,020 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,021 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,023 - DEBUG - Accepted connection from ('127.0.0.1', 36250)
+2024-05-28 04:59:12,024 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,024 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,028 - DEBUG - Accepted connection from ('127.0.0.1', 36256)
+2024-05-28 04:59:12,028 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,036 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,036 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,036 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,037 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,038 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,038 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,038 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,142 - DEBUG - Accepted connection from ('127.0.0.1', 36270)
+2024-05-28 04:59:12,143 - DEBUG - Accepted connection from ('127.0.0.1', 36284)
+2024-05-28 04:59:12,143 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,144 - DEBUG - Accepted connection from ('127.0.0.1', 36292)
+2024-05-28 04:59:12,145 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,146 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,147 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,147 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,146 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,146 - DEBUG - Accepted connection from ('127.0.0.1', 36300)
+2024-05-28 04:59:12,144 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,152 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,153 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,154 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,155 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,151 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,159 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,159 - DEBUG - Accepted connection from ('127.0.0.1', 36306)
+2024-05-28 04:59:12,152 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,160 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,161 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,161 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,162 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,161 - DEBUG - Accepted connection from ('127.0.0.1', 36316)
+2024-05-28 04:59:12,161 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,163 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,164 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,163 - DEBUG - Accepted connection from ('127.0.0.1', 36328)
+2024-05-28 04:59:12,164 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,166 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,166 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,166 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,165 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,164 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,168 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,168 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,169 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,169 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,167 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,170 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,170 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,170 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,173 - DEBUG - Accepted connection from ('127.0.0.1', 36340)
+2024-05-28 04:59:12,174 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,174 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,175 - DEBUG - Accepted connection from ('127.0.0.1', 36342)
+2024-05-28 04:59:12,175 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,176 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,176 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,176 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,178 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,178 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,179 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,179 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,574 - DEBUG - Accepted connection from ('127.0.0.1', 36358)
+2024-05-28 04:59:12,575 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,575 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,576 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,576 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:12,576 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:12,577 - DEBUG - Accepted connection from ('127.0.0.1', 36360)
+2024-05-28 04:59:12,587 - DEBUG - Accepted connection from ('127.0.0.1', 36372)
+2024-05-28 04:59:12,587 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,588 - DEBUG - Accepted connection from ('127.0.0.1', 36374)
+2024-05-28 04:59:12,588 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,588 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,588 - DEBUG - Accepted connection from ('127.0.0.1', 36384)
+2024-05-28 04:59:12,588 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,588 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,589 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,590 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:12,590 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:12,590 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,589 - DEBUG - Accepted connection from ('127.0.0.1', 36398)
+2024-05-28 04:59:12,590 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,591 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:12,592 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:12,591 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,589 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,591 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,593 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:12,593 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:12,593 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,593 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,594 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,594 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:12,594 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:12,594 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,595 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:12,595 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:12,596 - DEBUG - Accepted connection from ('127.0.0.1', 36400)
+2024-05-28 04:59:12,596 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,597 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,597 - DEBUG - Accepted connection from ('127.0.0.1', 36408)
+2024-05-28 04:59:12,598 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,599 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:12,599 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:12,598 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,599 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,599 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,600 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:12,600 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:12,602 - DEBUG - Accepted connection from ('127.0.0.1', 36412)
+2024-05-28 04:59:12,602 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,602 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,603 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,603 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:12,603 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:12,678 - DEBUG - Accepted connection from ('127.0.0.1', 36176)
+2024-05-28 04:59:12,679 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,679 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,680 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,680 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:12,680 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:12,890 - DEBUG - Accepted connection from ('127.0.0.1', 36416)
+2024-05-28 04:59:12,892 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,893 - DEBUG - Accepted connection from ('127.0.0.1', 36426)
+2024-05-28 04:59:12,893 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,897 - DEBUG - Accepted connection from ('127.0.0.1', 36428)
+2024-05-28 04:59:12,898 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,898 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,899 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,899 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,899 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,902 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,903 - DEBUG - Accepted connection from ('127.0.0.1', 36432)
+2024-05-28 04:59:12,904 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,904 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,905 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,905 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,904 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,906 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,906 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,907 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,908 - DEBUG - Accepted connection from ('127.0.0.1', 36448)
+2024-05-28 04:59:12,909 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,909 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,909 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,910 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,910 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,910 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,910 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,910 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,911 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,913 - DEBUG - Accepted connection from ('127.0.0.1', 36458)
+2024-05-28 04:59:12,914 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,914 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,914 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,915 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,915 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,918 - DEBUG - Accepted connection from ('127.0.0.1', 36464)
+2024-05-28 04:59:12,920 - DEBUG - Accepted connection from ('127.0.0.1', 36466)
+2024-05-28 04:59:12,920 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,920 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,920 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,921 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,921 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,921 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,922 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,921 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,922 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,923 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,932 - DEBUG - Accepted connection from ('127.0.0.1', 36474)
+2024-05-28 04:59:12,932 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,933 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,933 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,933 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,933 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:12,973 - DEBUG - Accepted connection from ('127.0.0.1', 36478)
+2024-05-28 04:59:12,975 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:12,975 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:12,976 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:12,977 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:12,977 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,038 - DEBUG - Accepted connection from ('127.0.0.1', 36488)
+2024-05-28 04:59:13,039 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,040 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,040 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,040 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,041 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,052 - DEBUG - Accepted connection from ('127.0.0.1', 36500)
+2024-05-28 04:59:13,052 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,053 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,058 - DEBUG - Accepted connection from ('127.0.0.1', 36510)
+2024-05-28 04:59:13,061 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,061 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,061 - DEBUG - Accepted connection from ('127.0.0.1', 36522)
+2024-05-28 04:59:13,062 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,062 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,063 - DEBUG - Accepted connection from ('127.0.0.1', 36524)
+2024-05-28 04:59:13,063 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,065 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,065 - DEBUG - Accepted connection from ('127.0.0.1', 36526)
+2024-05-28 04:59:13,065 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,066 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,066 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,068 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,068 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,067 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,067 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,072 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,072 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,070 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,067 - DEBUG - Accepted connection from ('127.0.0.1', 36528)
+2024-05-28 04:59:13,067 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,074 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,074 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,075 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,074 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,074 - DEBUG - Accepted connection from ('127.0.0.1', 36530)
+2024-05-28 04:59:13,073 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,076 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,076 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,076 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,076 - DEBUG - Accepted connection from ('127.0.0.1', 36540)
+2024-05-28 04:59:13,076 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,077 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,078 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,078 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,078 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,078 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,080 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,080 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,080 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,079 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,081 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,082 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,082 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,119 - DEBUG - Accepted connection from ('127.0.0.1', 36544)
+2024-05-28 04:59:13,120 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,121 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,122 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,123 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,124 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,341 - DEBUG - Accepted connection from ('127.0.0.1', 36560)
+2024-05-28 04:59:13,342 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,342 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,343 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,343 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:13,343 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:13,472 - DEBUG - Accepted connection from ('127.0.0.1', 36574)
+2024-05-28 04:59:13,472 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,472 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,473 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,473 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:13,473 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:13,498 - DEBUG - Accepted connection from ('127.0.0.1', 36586)
+2024-05-28 04:59:13,499 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,499 - DEBUG - Accepted connection from ('127.0.0.1', 36596)
+2024-05-28 04:59:13,504 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,505 - DEBUG - Accepted connection from ('127.0.0.1', 36612)
+2024-05-28 04:59:13,505 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,506 - DEBUG - Accepted connection from ('127.0.0.1', 36622)
+2024-05-28 04:59:13,506 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,506 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,506 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,507 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:13,507 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:13,506 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,506 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,506 - DEBUG - Accepted connection from ('127.0.0.1', 36624)
+2024-05-28 04:59:13,506 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,508 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,509 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:13,508 - DEBUG - Accepted connection from ('127.0.0.1', 36628)
+2024-05-28 04:59:13,508 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,509 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,508 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:13,510 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:13,510 - DEBUG - Accepted connection from ('127.0.0.1', 36630)
+2024-05-28 04:59:13,510 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,510 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,510 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,512 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:13,512 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:13,512 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,512 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,509 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:13,511 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,513 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,514 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:13,515 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:13,513 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:13,515 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:13,514 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,516 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,516 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:13,516 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:13,518 - DEBUG - Accepted connection from ('127.0.0.1', 36646)
+2024-05-28 04:59:13,519 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,519 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,520 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,520 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:13,520 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:13,630 - DEBUG - Accepted connection from ('127.0.0.1', 36658)
+2024-05-28 04:59:13,631 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,632 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,632 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,633 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,634 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,761 - DEBUG - Accepted connection from ('127.0.0.1', 36660)
+2024-05-28 04:59:13,762 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,763 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,763 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,764 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,764 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,774 - DEBUG - Accepted connection from ('127.0.0.1', 36674)
+2024-05-28 04:59:13,775 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,776 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,777 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,778 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,779 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,796 - DEBUG - Accepted connection from ('127.0.0.1', 36676)
+2024-05-28 04:59:13,802 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,806 - DEBUG - Accepted connection from ('127.0.0.1', 36678)
+2024-05-28 04:59:13,807 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,807 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,808 - DEBUG - Accepted connection from ('127.0.0.1', 36682)
+2024-05-28 04:59:13,808 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,809 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,809 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,818 - DEBUG - Accepted connection from ('127.0.0.1', 36698)
+2024-05-28 04:59:13,808 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,809 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,820 - DEBUG - Accepted connection from ('127.0.0.1', 36710)
+2024-05-28 04:59:13,821 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,821 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,822 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,822 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,822 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,823 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,823 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,820 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,821 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,824 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,825 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,825 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,825 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,826 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,826 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,827 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,830 - DEBUG - Accepted connection from ('127.0.0.1', 36714)
+2024-05-28 04:59:13,831 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,832 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,833 - DEBUG - Accepted connection from ('127.0.0.1', 36724)
+2024-05-28 04:59:13,834 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,834 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,834 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,835 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,835 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,835 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,836 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,836 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,837 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,844 - DEBUG - Accepted connection from ('127.0.0.1', 36728)
+2024-05-28 04:59:13,845 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,845 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,845 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,846 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,846 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,910 - DEBUG - Accepted connection from ('127.0.0.1', 36744)
+2024-05-28 04:59:13,911 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,912 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,912 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,913 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,913 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,952 - DEBUG - Accepted connection from ('127.0.0.1', 36752)
+2024-05-28 04:59:13,953 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,954 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,955 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,956 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,957 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,961 - DEBUG - Accepted connection from ('127.0.0.1', 36756)
+2024-05-28 04:59:13,963 - DEBUG - Accepted connection from ('127.0.0.1', 36768)
+2024-05-28 04:59:13,963 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,964 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,965 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,965 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,965 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,963 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,967 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,967 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,968 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,968 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,977 - DEBUG - Accepted connection from ('127.0.0.1', 36776)
+2024-05-28 04:59:13,978 - DEBUG - Accepted connection from ('127.0.0.1', 36792)
+2024-05-28 04:59:13,978 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,979 - DEBUG - Accepted connection from ('127.0.0.1', 36794)
+2024-05-28 04:59:13,979 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,979 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,979 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,980 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,980 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,979 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,979 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,979 - DEBUG - Accepted connection from ('127.0.0.1', 36810)
+2024-05-28 04:59:13,981 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,982 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,982 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,981 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,984 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,983 - DEBUG - Accepted connection from ('127.0.0.1', 36824)
+2024-05-28 04:59:13,982 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,984 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,985 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,985 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,986 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,986 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,987 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:13,984 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:13,988 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:13,988 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:13,988 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:13,989 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,084 - DEBUG - Accepted connection from ('127.0.0.1', 36828)
+2024-05-28 04:59:14,085 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,085 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,085 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,086 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:14,086 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:14,217 - DEBUG - Accepted connection from ('127.0.0.1', 36836)
+2024-05-28 04:59:14,218 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,219 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,219 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,219 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:14,220 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:14,257 - DEBUG - Accepted connection from ('127.0.0.1', 36848)
+2024-05-28 04:59:14,259 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,259 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,260 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,260 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:14,260 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:14,324 - DEBUG - Accepted connection from ('127.0.0.1', 36856)
+2024-05-28 04:59:14,325 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,326 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,326 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,326 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:14,326 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:14,332 - DEBUG - Accepted connection from ('127.0.0.1', 36864)
+2024-05-28 04:59:14,332 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,333 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,333 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,334 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:14,334 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:14,346 - DEBUG - Accepted connection from ('127.0.0.1', 36878)
+2024-05-28 04:59:14,349 - DEBUG - Accepted connection from ('127.0.0.1', 36894)
+2024-05-28 04:59:14,350 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,350 - DEBUG - Accepted connection from ('127.0.0.1', 36896)
+2024-05-28 04:59:14,350 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,350 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,350 - DEBUG - Accepted connection from ('127.0.0.1', 36912)
+2024-05-28 04:59:14,350 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,351 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,352 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:14,352 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:14,351 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,351 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,351 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,353 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,353 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,354 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:14,354 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:14,354 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,354 - DEBUG - Accepted connection from ('127.0.0.1', 36924)
+2024-05-28 04:59:14,353 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:14,356 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:14,355 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,355 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,358 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:14,358 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:14,358 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,359 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,359 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:14,360 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:14,376 - DEBUG - Accepted connection from ('127.0.0.1', 36934)
+2024-05-28 04:59:14,377 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,377 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,377 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,378 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:14,378 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,509 - DEBUG - Accepted connection from ('127.0.0.1', 36946)
+2024-05-28 04:59:14,511 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,513 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,513 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,514 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:14,515 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,516 - DEBUG - Accepted connection from ('127.0.0.1', 36952)
+2024-05-28 04:59:14,517 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,519 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,519 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,519 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:14,519 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,548 - DEBUG - Accepted connection from ('127.0.0.1', 36962)
+2024-05-28 04:59:14,549 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,550 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,551 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,551 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:14,552 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,616 - DEBUG - Accepted connection from ('127.0.0.1', 36972)
+2024-05-28 04:59:14,617 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,618 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,620 - DEBUG - Accepted connection from ('127.0.0.1', 36978)
+2024-05-28 04:59:14,621 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,621 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,622 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:14,623 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,622 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,631 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,632 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:14,633 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,637 - DEBUG - Accepted connection from ('127.0.0.1', 36982)
+2024-05-28 04:59:14,642 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,643 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,643 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,644 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:14,644 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,645 - DEBUG - Accepted connection from ('127.0.0.1', 36988)
+2024-05-28 04:59:14,645 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,645 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,646 - DEBUG - Accepted connection from ('127.0.0.1', 37002)
+2024-05-28 04:59:14,646 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,646 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:14,647 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,646 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,647 - DEBUG - Accepted connection from ('127.0.0.1', 37006)
+2024-05-28 04:59:14,647 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,648 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,648 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,649 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:14,649 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,650 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,651 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,651 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:14,651 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,652 - DEBUG - Accepted connection from ('127.0.0.1', 37008)
+2024-05-28 04:59:14,652 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,652 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,652 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,652 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:14,653 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,654 - DEBUG - Accepted connection from ('127.0.0.1', 37014)
+2024-05-28 04:59:14,654 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,655 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,655 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,656 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:14,657 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,692 - DEBUG - Accepted connection from ('127.0.0.1', 37020)
+2024-05-28 04:59:14,693 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,694 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,695 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,695 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:14,696 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,767 - DEBUG - Accepted connection from ('127.0.0.1', 37034)
+2024-05-28 04:59:14,768 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,768 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,769 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,769 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:14,770 - DEBUG - Accepted connection from ('127.0.0.1', 37046)
+2024-05-28 04:59:14,770 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,771 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,772 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,772 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,772 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:14,773 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,793 - DEBUG - Accepted connection from ('127.0.0.1', 37050)
+2024-05-28 04:59:14,804 - DEBUG - Accepted connection from ('127.0.0.1', 37054)
+2024-05-28 04:59:14,804 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,804 - DEBUG - Accepted connection from ('127.0.0.1', 37062)
+2024-05-28 04:59:14,805 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,804 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,805 - DEBUG - Accepted connection from ('127.0.0.1', 37078)
+2024-05-28 04:59:14,806 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,805 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,806 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:14,806 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,806 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,806 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,807 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:14,806 - DEBUG - Accepted connection from ('127.0.0.1', 37086)
+2024-05-28 04:59:14,805 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,807 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,808 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,809 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,809 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:14,809 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,808 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,808 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,810 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,810 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:14,810 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,810 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,815 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,815 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:14,815 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:14,819 - DEBUG - Accepted connection from ('127.0.0.1', 37100)
+2024-05-28 04:59:14,820 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,820 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,821 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,821 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:14,821 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:14,976 - DEBUG - Accepted connection from ('127.0.0.1', 37108)
+2024-05-28 04:59:14,977 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,978 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,978 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,978 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:14,979 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:14,990 - DEBUG - Accepted connection from ('127.0.0.1', 37116)
+2024-05-28 04:59:14,990 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:14,991 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:14,991 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:14,991 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:14,992 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:15,082 - DEBUG - Accepted connection from ('127.0.0.1', 37130)
+2024-05-28 04:59:15,083 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,084 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,084 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,087 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:15,088 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:15,091 - DEBUG - Accepted connection from ('127.0.0.1', 37138)
+2024-05-28 04:59:15,092 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,092 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,093 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,093 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:15,093 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:15,117 - DEBUG - Accepted connection from ('127.0.0.1', 37150)
+2024-05-28 04:59:15,131 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,132 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,133 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,133 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,134 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,155 - DEBUG - Accepted connection from ('127.0.0.1', 37162)
+2024-05-28 04:59:15,155 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,156 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,156 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,157 - DEBUG - Accepted connection from ('127.0.0.1', 37168)
+2024-05-28 04:59:15,157 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:15,157 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:15,157 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,158 - DEBUG - Accepted connection from ('127.0.0.1', 37178)
+2024-05-28 04:59:15,159 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,159 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,159 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,159 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:15,160 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:15,159 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,160 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,160 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:15,161 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:15,166 - DEBUG - Accepted connection from ('127.0.0.1', 37188)
+2024-05-28 04:59:15,167 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,167 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,167 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,167 - DEBUG - Accepted connection from ('127.0.0.1', 37194)
+2024-05-28 04:59:15,167 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:15,168 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:15,168 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,169 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,169 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,170 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:15,171 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:15,272 - DEBUG - Accepted connection from ('127.0.0.1', 37196)
+2024-05-28 04:59:15,273 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,274 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,275 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,276 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,278 - DEBUG - Accepted connection from ('127.0.0.1', 37208)
+2024-05-28 04:59:15,278 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,279 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,280 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,280 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,280 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,281 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,283 - DEBUG - Accepted connection from ('127.0.0.1', 37210)
+2024-05-28 04:59:15,283 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,284 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,284 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,285 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,285 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,378 - DEBUG - Accepted connection from ('127.0.0.1', 37216)
+2024-05-28 04:59:15,379 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,380 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,381 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,382 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,383 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,389 - DEBUG - Accepted connection from ('127.0.0.1', 37232)
+2024-05-28 04:59:15,389 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,390 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,391 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,391 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,391 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,424 - DEBUG - Accepted connection from ('127.0.0.1', 37240)
+2024-05-28 04:59:15,425 - DEBUG - Accepted connection from ('127.0.0.1', 37250)
+2024-05-28 04:59:15,425 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,426 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,427 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,427 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,428 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,426 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,429 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,430 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,430 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,431 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,451 - DEBUG - Accepted connection from ('127.0.0.1', 37252)
+2024-05-28 04:59:15,453 - DEBUG - Accepted connection from ('127.0.0.1', 37256)
+2024-05-28 04:59:15,453 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,453 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,454 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,454 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,455 - DEBUG - Accepted connection from ('127.0.0.1', 37260)
+2024-05-28 04:59:15,455 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,456 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,456 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,455 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,456 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,457 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,455 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,458 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,459 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,459 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,459 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,461 - DEBUG - Accepted connection from ('127.0.0.1', 37270)
+2024-05-28 04:59:15,461 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,462 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,462 - DEBUG - Accepted connection from ('127.0.0.1', 37276)
+2024-05-28 04:59:15,462 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,463 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,464 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,463 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,464 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,465 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,465 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,465 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,522 - DEBUG - Accepted connection from ('127.0.0.1', 37286)
+2024-05-28 04:59:15,522 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,522 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,523 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,523 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,524 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,536 - DEBUG - Accepted connection from ('127.0.0.1', 37292)
+2024-05-28 04:59:15,537 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,538 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,539 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,540 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,540 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,574 - DEBUG - Accepted connection from ('127.0.0.1', 37306)
+2024-05-28 04:59:15,574 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,576 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,576 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,577 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:15,577 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:15,595 - DEBUG - Accepted connection from ('127.0.0.1', 37316)
+2024-05-28 04:59:15,596 - DEBUG - Accepted connection from ('127.0.0.1', 37318)
+2024-05-28 04:59:15,596 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,596 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,596 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,598 - DEBUG - Accepted connection from ('127.0.0.1', 37320)
+2024-05-28 04:59:15,598 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,599 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,599 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,598 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,598 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,600 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,600 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,601 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,600 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,602 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,602 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,602 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,632 - DEBUG - Accepted connection from ('127.0.0.1', 37322)
+2024-05-28 04:59:15,633 - DEBUG - Accepted connection from ('127.0.0.1', 37330)
+2024-05-28 04:59:15,633 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,634 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,635 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,636 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,636 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,634 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,638 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,639 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,639 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,639 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,738 - DEBUG - Accepted connection from ('127.0.0.1', 37344)
+2024-05-28 04:59:15,739 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,739 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,740 - DEBUG - Accepted connection from ('127.0.0.1', 37350)
+2024-05-28 04:59:15,740 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,740 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:15,740 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:15,740 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,741 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,742 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,743 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:15,743 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:15,831 - DEBUG - Accepted connection from ('127.0.0.1', 37354)
+2024-05-28 04:59:15,832 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,832 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,833 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,833 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:15,833 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:15,843 - DEBUG - Accepted connection from ('127.0.0.1', 37360)
+2024-05-28 04:59:15,843 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,844 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,844 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,844 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:15,845 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:15,874 - DEBUG - Accepted connection from ('127.0.0.1', 37364)
+2024-05-28 04:59:15,875 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,876 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,877 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,878 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:15,878 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:15,950 - DEBUG - Accepted connection from ('127.0.0.1', 37380)
+2024-05-28 04:59:15,951 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,951 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,952 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,952 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:15,952 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:15,953 - DEBUG - Accepted connection from ('127.0.0.1', 37388)
+2024-05-28 04:59:15,954 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,954 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,954 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,955 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:15,955 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:15,956 - DEBUG - Accepted connection from ('127.0.0.1', 37404)
+2024-05-28 04:59:15,957 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,957 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,958 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,958 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:15,958 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:15,964 - DEBUG - Accepted connection from ('127.0.0.1', 37416)
+2024-05-28 04:59:15,965 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,966 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,966 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,966 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:15,966 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:15,967 - DEBUG - Accepted connection from ('127.0.0.1', 37432)
+2024-05-28 04:59:15,968 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:15,968 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:15,968 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:15,969 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:15,969 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:16,020 - DEBUG - Accepted connection from ('127.0.0.1', 37448)
+2024-05-28 04:59:16,021 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,021 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,022 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,023 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,023 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,046 - DEBUG - Accepted connection from ('127.0.0.1', 37462)
+2024-05-28 04:59:16,047 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,048 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,050 - DEBUG - Accepted connection from ('127.0.0.1', 37470)
+2024-05-28 04:59:16,051 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,051 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,052 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,051 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,053 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,053 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,053 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,053 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,121 - DEBUG - Accepted connection from ('127.0.0.1', 37482)
+2024-05-28 04:59:16,122 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,123 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,124 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,125 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,125 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,184 - DEBUG - Accepted connection from ('127.0.0.1', 37490)
+2024-05-28 04:59:16,185 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,186 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,187 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,188 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,189 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,194 - DEBUG - Accepted connection from ('127.0.0.1', 37498)
+2024-05-28 04:59:16,196 - DEBUG - Accepted connection from ('127.0.0.1', 37514)
+2024-05-28 04:59:16,196 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,197 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,197 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,197 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,198 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,196 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,200 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,201 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,201 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,202 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,250 - DEBUG - Accepted connection from ('127.0.0.1', 37518)
+2024-05-28 04:59:16,251 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,251 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,252 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,253 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,254 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,259 - DEBUG - Accepted connection from ('127.0.0.1', 37528)
+2024-05-28 04:59:16,260 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,260 - DEBUG - Accepted connection from ('127.0.0.1', 37538)
+2024-05-28 04:59:16,262 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,263 - DEBUG - Accepted connection from ('127.0.0.1', 37540)
+2024-05-28 04:59:16,264 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,264 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,264 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,264 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,264 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,265 - DEBUG - Accepted connection from ('127.0.0.1', 37544)
+2024-05-28 04:59:16,266 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,267 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,267 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,267 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,268 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,268 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,268 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,268 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,271 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,271 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,272 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,273 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,273 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,274 - DEBUG - Accepted connection from ('127.0.0.1', 37560)
+2024-05-28 04:59:16,274 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,275 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,275 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,275 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,276 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,316 - DEBUG - Accepted connection from ('127.0.0.1', 37564)
+2024-05-28 04:59:16,317 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,317 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,318 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,318 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:16,318 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:16,327 - DEBUG - Accepted connection from ('127.0.0.1', 37570)
+2024-05-28 04:59:16,327 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,328 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,328 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,328 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,329 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,396 - DEBUG - Accepted connection from ('127.0.0.1', 37572)
+2024-05-28 04:59:16,397 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,398 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,399 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,400 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,401 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,403 - DEBUG - Accepted connection from ('127.0.0.1', 37584)
+2024-05-28 04:59:16,403 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,404 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,404 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,405 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,405 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,406 - DEBUG - Accepted connection from ('127.0.0.1', 37594)
+2024-05-28 04:59:16,407 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,408 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,409 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,410 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,410 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,415 - DEBUG - Accepted connection from ('127.0.0.1', 37596)
+2024-05-28 04:59:16,416 - DEBUG - Accepted connection from ('127.0.0.1', 37612)
+2024-05-28 04:59:16,416 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,416 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,417 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,417 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,417 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,416 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,418 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,419 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,419 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,420 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,508 - DEBUG - Accepted connection from ('127.0.0.1', 37620)
+2024-05-28 04:59:16,508 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,509 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,509 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,509 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:16,509 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:16,510 - DEBUG - Accepted connection from ('127.0.0.1', 37628)
+2024-05-28 04:59:16,510 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,511 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,511 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,512 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:16,512 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:16,572 - DEBUG - Accepted connection from ('127.0.0.1', 37638)
+2024-05-28 04:59:16,572 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,573 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,573 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,573 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:16,574 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:16,623 - DEBUG - Accepted connection from ('127.0.0.1', 37648)
+2024-05-28 04:59:16,624 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,624 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,624 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,625 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,625 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,628 - DEBUG - Accepted connection from ('127.0.0.1', 37650)
+2024-05-28 04:59:16,629 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,629 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,629 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,630 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:16,630 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:16,743 - DEBUG - Accepted connection from ('127.0.0.1', 37652)
+2024-05-28 04:59:16,744 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,744 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,744 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,744 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:16,745 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:16,756 - DEBUG - Accepted connection from ('127.0.0.1', 37662)
+2024-05-28 04:59:16,757 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,758 - DEBUG - Accepted connection from ('127.0.0.1', 37666)
+2024-05-28 04:59:16,760 - DEBUG - Accepted connection from ('127.0.0.1', 37672)
+2024-05-28 04:59:16,760 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,760 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,760 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,760 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,763 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,763 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:16,763 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:16,763 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,763 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,765 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:16,765 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:16,764 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,766 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:16,767 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:16,767 - DEBUG - Accepted connection from ('127.0.0.1', 37688)
+2024-05-28 04:59:16,768 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,768 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,768 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,769 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,769 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,771 - DEBUG - Accepted connection from ('127.0.0.1', 37690)
+2024-05-28 04:59:16,771 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,772 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,772 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,773 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:16,773 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:16,795 - DEBUG - Accepted connection from ('127.0.0.1', 37700)
+2024-05-28 04:59:16,796 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,796 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,797 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,797 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,798 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,802 - DEBUG - Accepted connection from ('127.0.0.1', 37706)
+2024-05-28 04:59:16,803 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,803 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,804 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,804 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,804 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,867 - DEBUG - Accepted connection from ('127.0.0.1', 37708)
+2024-05-28 04:59:16,868 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,868 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,869 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,869 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,870 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,940 - DEBUG - Accepted connection from ('127.0.0.1', 37714)
+2024-05-28 04:59:16,944 - DEBUG - Accepted connection from ('127.0.0.1', 37730)
+2024-05-28 04:59:16,944 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,946 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,947 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,948 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,948 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,945 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,950 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,951 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,952 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,952 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:16,978 - DEBUG - Accepted connection from ('127.0.0.1', 37738)
+2024-05-28 04:59:16,979 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:16,980 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:16,981 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:16,982 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:16,983 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,012 - DEBUG - Accepted connection from ('127.0.0.1', 37742)
+2024-05-28 04:59:17,013 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,013 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,014 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,015 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,015 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,034 - DEBUG - Accepted connection from ('127.0.0.1', 37756)
+2024-05-28 04:59:17,035 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,036 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,037 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,038 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,038 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,066 - DEBUG - Accepted connection from ('127.0.0.1', 37770)
+2024-05-28 04:59:17,066 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,066 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,067 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,067 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,067 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,069 - DEBUG - Accepted connection from ('127.0.0.1', 37774)
+2024-05-28 04:59:17,071 - DEBUG - Accepted connection from ('127.0.0.1', 37780)
+2024-05-28 04:59:17,071 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,071 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,072 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,072 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,072 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,073 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,073 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,072 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,074 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,074 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,075 - DEBUG - Accepted connection from ('127.0.0.1', 37790)
+2024-05-28 04:59:17,075 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,076 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,076 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,076 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,076 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,088 - DEBUG - Accepted connection from ('127.0.0.1', 37792)
+2024-05-28 04:59:17,088 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,089 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,089 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,089 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:17,089 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:17,122 - DEBUG - Accepted connection from ('127.0.0.1', 37796)
+2024-05-28 04:59:17,123 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,124 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,125 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,125 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,126 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,179 - DEBUG - Accepted connection from ('127.0.0.1', 37798)
+2024-05-28 04:59:17,180 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,181 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,182 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,182 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,183 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,218 - DEBUG - Accepted connection from ('127.0.0.1', 37804)
+2024-05-28 04:59:17,220 - DEBUG - Accepted connection from ('127.0.0.1', 37810)
+2024-05-28 04:59:17,220 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,221 - DEBUG - Accepted connection from ('127.0.0.1', 37824)
+2024-05-28 04:59:17,221 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,223 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,223 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,224 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,223 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,223 - DEBUG - Accepted connection from ('127.0.0.1', 37834)
+2024-05-28 04:59:17,222 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,237 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,237 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,237 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,238 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,240 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,239 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,240 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,240 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,239 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,240 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,241 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,242 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,242 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,259 - DEBUG - Accepted connection from ('127.0.0.1', 37850)
+2024-05-28 04:59:17,259 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,260 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,260 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,260 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:17,261 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:17,262 - DEBUG - Accepted connection from ('127.0.0.1', 37862)
+2024-05-28 04:59:17,262 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,263 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,263 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,264 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:17,264 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:17,320 - DEBUG - Accepted connection from ('127.0.0.1', 37870)
+2024-05-28 04:59:17,321 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,323 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,323 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,323 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:17,324 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:17,390 - DEBUG - Accepted connection from ('127.0.0.1', 37874)
+2024-05-28 04:59:17,392 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,392 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,393 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,393 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,393 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,421 - DEBUG - Accepted connection from ('127.0.0.1', 37886)
+2024-05-28 04:59:17,429 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,430 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,430 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,431 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:17,431 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:17,476 - DEBUG - Accepted connection from ('127.0.0.1', 59514)
+2024-05-28 04:59:17,477 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,477 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,478 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,478 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:17,479 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:17,517 - DEBUG - Accepted connection from ('127.0.0.1', 59520)
+2024-05-28 04:59:17,517 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,518 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,518 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,518 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:17,519 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:17,532 - DEBUG - Accepted connection from ('127.0.0.1', 59526)
+2024-05-28 04:59:17,533 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,533 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,533 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,533 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,534 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,548 - DEBUG - Accepted connection from ('127.0.0.1', 59532)
+2024-05-28 04:59:17,548 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,549 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,549 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,549 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,550 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,551 - DEBUG - Accepted connection from ('127.0.0.1', 59548)
+2024-05-28 04:59:17,552 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,552 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,552 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,553 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,553 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,575 - DEBUG - Accepted connection from ('127.0.0.1', 59560)
+2024-05-28 04:59:17,575 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,576 - DEBUG - Accepted connection from ('127.0.0.1', 59568)
+2024-05-28 04:59:17,576 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,577 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,577 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,577 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,578 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:17,578 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:17,578 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,579 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:17,579 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:17,580 - DEBUG - Accepted connection from ('127.0.0.1', 59580)
+2024-05-28 04:59:17,581 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,581 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,581 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,581 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:17,582 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:17,611 - DEBUG - Accepted connection from ('127.0.0.1', 59596)
+2024-05-28 04:59:17,611 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,612 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,612 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,613 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,613 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,689 - DEBUG - Accepted connection from ('127.0.0.1', 59606)
+2024-05-28 04:59:17,693 - DEBUG - Accepted connection from ('127.0.0.1', 59618)
+2024-05-28 04:59:17,695 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,696 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,697 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,697 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,697 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,696 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,699 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,699 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,699 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,700 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,723 - DEBUG - Accepted connection from ('127.0.0.1', 59632)
+2024-05-28 04:59:17,724 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,724 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,724 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,725 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,725 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,762 - DEBUG - Accepted connection from ('127.0.0.1', 59646)
+2024-05-28 04:59:17,764 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,765 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,765 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,765 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,766 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,774 - DEBUG - Accepted connection from ('127.0.0.1', 59652)
+2024-05-28 04:59:17,775 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,775 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,776 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,776 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,776 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,811 - DEBUG - Accepted connection from ('127.0.0.1', 59660)
+2024-05-28 04:59:17,812 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,812 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,813 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,813 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,813 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,860 - DEBUG - Accepted connection from ('127.0.0.1', 59674)
+2024-05-28 04:59:17,861 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,864 - DEBUG - Accepted connection from ('127.0.0.1', 59690)
+2024-05-28 04:59:17,865 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,865 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,865 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,866 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,866 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,866 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,866 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:17,867 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:17,866 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,875 - DEBUG - Accepted connection from ('127.0.0.1', 59698)
+2024-05-28 04:59:17,876 - DEBUG - Accepted connection from ('127.0.0.1', 59714)
+2024-05-28 04:59:17,877 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,877 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,877 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,878 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,878 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,878 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,878 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,878 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,879 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,880 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,883 - DEBUG - Accepted connection from ('127.0.0.1', 59728)
+2024-05-28 04:59:17,884 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,884 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,885 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,885 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,886 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,914 - DEBUG - Accepted connection from ('127.0.0.1', 59734)
+2024-05-28 04:59:17,915 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,915 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,915 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,916 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,916 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:17,952 - DEBUG - Accepted connection from ('127.0.0.1', 59742)
+2024-05-28 04:59:17,954 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:17,955 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:17,955 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:17,956 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:17,957 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,010 - DEBUG - Accepted connection from ('127.0.0.1', 59758)
+2024-05-28 04:59:18,011 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,011 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,011 - DEBUG - Accepted connection from ('127.0.0.1', 59766)
+2024-05-28 04:59:18,012 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,012 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:18,012 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:18,012 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,013 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,013 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,014 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:18,014 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:18,015 - DEBUG - Accepted connection from ('127.0.0.1', 59770)
+2024-05-28 04:59:18,016 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,016 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,016 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,017 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,017 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,018 - DEBUG - Accepted connection from ('127.0.0.1', 59772)
+2024-05-28 04:59:18,019 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,019 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,020 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,020 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,022 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,032 - DEBUG - Accepted connection from ('127.0.0.1', 59778)
+2024-05-28 04:59:18,033 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,033 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,033 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,033 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,033 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,061 - DEBUG - Accepted connection from ('127.0.0.1', 59792)
+2024-05-28 04:59:18,062 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,062 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,063 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,063 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:18,063 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:18,166 - DEBUG - Accepted connection from ('127.0.0.1', 59804)
+2024-05-28 04:59:18,167 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,167 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,167 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,168 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,168 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,173 - DEBUG - Accepted connection from ('127.0.0.1', 59814)
+2024-05-28 04:59:18,174 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,174 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,175 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,175 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:18,175 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:18,207 - DEBUG - Accepted connection from ('127.0.0.1', 59820)
+2024-05-28 04:59:18,208 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,208 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,209 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,209 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:18,209 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:18,255 - DEBUG - Accepted connection from ('127.0.0.1', 59832)
+2024-05-28 04:59:18,255 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,256 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,256 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,256 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:18,257 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:18,308 - DEBUG - Accepted connection from ('127.0.0.1', 59846)
+2024-05-28 04:59:18,310 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,311 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,312 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,312 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,312 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,314 - DEBUG - Accepted connection from ('127.0.0.1', 59848)
+2024-05-28 04:59:18,316 - DEBUG - Accepted connection from ('127.0.0.1', 59862)
+2024-05-28 04:59:18,316 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,317 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,317 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,318 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,318 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,318 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,318 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,318 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,319 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,319 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,356 - DEBUG - Accepted connection from ('127.0.0.1', 59868)
+2024-05-28 04:59:18,358 - DEBUG - Accepted connection from ('127.0.0.1', 59878)
+2024-05-28 04:59:18,358 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,358 - DEBUG - Accepted connection from ('127.0.0.1', 59886)
+2024-05-28 04:59:18,359 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,359 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,359 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,359 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,360 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,360 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,359 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,359 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,361 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,361 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:18,361 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:18,361 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,362 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:18,362 - DEBUG - Accepted connection from ('127.0.0.1', 59900)
+2024-05-28 04:59:18,362 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:18,363 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,364 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,364 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,365 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:18,365 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:18,457 - DEBUG - Accepted connection from ('127.0.0.1', 59908)
+2024-05-28 04:59:18,458 - DEBUG - Accepted connection from ('127.0.0.1', 59916)
+2024-05-28 04:59:18,458 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,459 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,459 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,460 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,461 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,459 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,465 - DEBUG - Accepted connection from ('127.0.0.1', 59928)
+2024-05-28 04:59:18,466 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,467 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,467 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,467 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,466 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,469 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,469 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,469 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,470 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,495 - DEBUG - Accepted connection from ('127.0.0.1', 59936)
+2024-05-28 04:59:18,496 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,496 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,497 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,497 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,497 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,505 - DEBUG - Accepted connection from ('127.0.0.1', 59942)
+2024-05-28 04:59:18,506 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,507 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,507 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,507 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,508 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,561 - DEBUG - Accepted connection from ('127.0.0.1', 59946)
+2024-05-28 04:59:18,562 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,563 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,564 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,565 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,566 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,611 - DEBUG - Accepted connection from ('127.0.0.1', 59948)
+2024-05-28 04:59:18,612 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,613 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,613 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,613 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,614 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,621 - DEBUG - Accepted connection from ('127.0.0.1', 59954)
+2024-05-28 04:59:18,624 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,629 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,630 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,631 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:18,631 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:18,635 - DEBUG - Accepted connection from ('127.0.0.1', 59968)
+2024-05-28 04:59:18,635 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,636 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,638 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,638 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,638 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,652 - DEBUG - Accepted connection from ('127.0.0.1', 59976)
+2024-05-28 04:59:18,655 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,656 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,656 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,657 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,657 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,665 - DEBUG - Accepted connection from ('127.0.0.1', 59988)
+2024-05-28 04:59:18,666 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,667 - DEBUG - Accepted connection from ('127.0.0.1', 59992)
+2024-05-28 04:59:18,668 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,669 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,669 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,670 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,669 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,671 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,672 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,672 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,673 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,707 - DEBUG - Accepted connection from ('127.0.0.1', 60004)
+2024-05-28 04:59:18,708 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,708 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,708 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,709 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,709 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,795 - DEBUG - Accepted connection from ('127.0.0.1', 60008)
+2024-05-28 04:59:18,795 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,796 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,796 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,796 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,797 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,804 - DEBUG - Accepted connection from ('127.0.0.1', 60038)
+2024-05-28 04:59:18,804 - DEBUG - Accepted connection from ('127.0.0.1', 60024)
+2024-05-28 04:59:18,804 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,805 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,805 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,806 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,806 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,807 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:18,807 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:18,807 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,807 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:18,808 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:18,816 - DEBUG - Accepted connection from ('127.0.0.1', 60048)
+2024-05-28 04:59:18,817 - DEBUG - Accepted connection from ('127.0.0.1', 60064)
+2024-05-28 04:59:18,817 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,817 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,818 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,818 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,818 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,819 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,819 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,819 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,820 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,820 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,824 - DEBUG - Accepted connection from ('127.0.0.1', 60068)
+2024-05-28 04:59:18,825 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,826 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,826 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,826 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:18,826 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:18,913 - DEBUG - Accepted connection from ('127.0.0.1', 60072)
+2024-05-28 04:59:18,914 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,915 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,915 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,915 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:18,915 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:18,921 - DEBUG - Accepted connection from ('127.0.0.1', 60082)
+2024-05-28 04:59:18,921 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,922 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,922 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,923 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:18,923 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:18,938 - DEBUG - Accepted connection from ('127.0.0.1', 60088)
+2024-05-28 04:59:18,939 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:18,939 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:18,940 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:18,940 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:18,941 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:19,003 - DEBUG - Accepted connection from ('127.0.0.1', 60102)
+2024-05-28 04:59:19,004 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,004 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,005 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,005 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:19,005 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:19,062 - DEBUG - Accepted connection from ('127.0.0.1', 60106)
+2024-05-28 04:59:19,064 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,065 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,065 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,065 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:19,065 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:19,104 - DEBUG - Accepted connection from ('127.0.0.1', 60118)
+2024-05-28 04:59:19,107 - DEBUG - Accepted connection from ('127.0.0.1', 60128)
+2024-05-28 04:59:19,107 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,107 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,108 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,108 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,108 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,108 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:19,109 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:19,108 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,110 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:19,110 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:19,116 - DEBUG - Accepted connection from ('127.0.0.1', 60138)
+2024-05-28 04:59:19,121 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,121 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,123 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,123 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:19,123 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:19,125 - DEBUG - Accepted connection from ('127.0.0.1', 60148)
+2024-05-28 04:59:19,125 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,126 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,126 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,126 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:19,126 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:19,145 - DEBUG - Accepted connection from ('127.0.0.1', 60164)
+2024-05-28 04:59:19,146 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,147 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,147 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,147 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:19,148 - DEBUG - Accepted connection from ('127.0.0.1', 60170)
+2024-05-28 04:59:19,148 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:19,148 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,149 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,149 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,150 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:19,150 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:19,209 - DEBUG - Accepted connection from ('127.0.0.1', 60180)
+2024-05-28 04:59:19,210 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,210 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,211 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,211 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:19,211 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:19,238 - DEBUG - Accepted connection from ('127.0.0.1', 60196)
+2024-05-28 04:59:19,240 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,240 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,241 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,244 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:19,245 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:19,251 - DEBUG - Accepted connection from ('127.0.0.1', 60212)
+2024-05-28 04:59:19,254 - DEBUG - Accepted connection from ('127.0.0.1', 60224)
+2024-05-28 04:59:19,254 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,255 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,255 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,255 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:19,256 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:19,254 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,257 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,257 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,258 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:19,259 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:19,266 - DEBUG - Accepted connection from ('127.0.0.1', 60232)
+2024-05-28 04:59:19,267 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,268 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,268 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,269 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:19,269 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:19,295 - DEBUG - Accepted connection from ('127.0.0.1', 60236)
+2024-05-28 04:59:19,297 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,298 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,298 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,299 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:19,299 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:19,354 - DEBUG - Accepted connection from ('127.0.0.1', 60238)
+2024-05-28 04:59:19,357 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,357 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,358 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,358 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:19,359 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:19,390 - DEBUG - Accepted connection from ('127.0.0.1', 60248)
+2024-05-28 04:59:19,391 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,391 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,392 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,393 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:19,393 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:19,422 - DEBUG - Accepted connection from ('127.0.0.1', 60250)
+2024-05-28 04:59:19,426 - DEBUG - Accepted connection from ('127.0.0.1', 60256)
+2024-05-28 04:59:19,427 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,427 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,428 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,428 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:19,429 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:19,427 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,430 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,430 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,431 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:19,431 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:19,438 - DEBUG - Accepted connection from ('127.0.0.1', 60272)
+2024-05-28 04:59:19,439 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,439 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,440 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,440 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:19,440 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:19,453 - DEBUG - Accepted connection from ('127.0.0.1', 60280)
+2024-05-28 04:59:19,453 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,454 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,454 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,455 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:19,455 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:19,577 - DEBUG - Accepted connection from ('127.0.0.1', 60292)
+2024-05-28 04:59:19,581 - DEBUG - Accepted connection from ('127.0.0.1', 60296)
+2024-05-28 04:59:19,581 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,582 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,582 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,583 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:19,583 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:19,582 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,585 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,585 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,586 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:19,586 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:19,598 - DEBUG - Accepted connection from ('127.0.0.1', 60310)
+2024-05-28 04:59:19,599 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,599 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,600 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,600 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:19,601 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:19,907 - DEBUG - Accepted connection from ('127.0.0.1', 60326)
+2024-05-28 04:59:19,908 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:19,909 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:19,910 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:19,910 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:19,911 - DEBUG - Connecting to 4.2.2.2:53
+2024-05-28 04:59:20,210 - DEBUG - Accepted connection from ('127.0.0.1', 60334)
+2024-05-28 04:59:20,212 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:20,213 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:20,214 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:20,215 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:20,216 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:20,357 - DEBUG - Accepted connection from ('127.0.0.1', 60338)
+2024-05-28 04:59:20,358 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:20,358 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:20,359 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:20,359 - DEBUG - Resolved IPv4 address: 93.184.215.14
+2024-05-28 04:59:20,359 - DEBUG - Connecting to 93.184.215.14:80
+2024-05-28 04:59:39,973 - DEBUG - Accepted connection from ('127.0.0.1', 36722)
+2024-05-28 04:59:39,973 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:39,974 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:39,974 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:39,976 - DEBUG - Resolved IPv4 address: 127.0.0.1
+2024-05-28 04:59:39,976 - DEBUG - Connecting to 127.0.0.1:5201
+2024-05-28 04:59:40,054 - DEBUG - Accepted connection from ('127.0.0.1', 36728)
+2024-05-28 04:59:40,055 - DEBUG - Client authentication methods: b'\x00\x02'
+2024-05-28 04:59:40,055 - DEBUG - Received username: user, password: password
+2024-05-28 04:59:40,056 - DEBUG - Command: 1, Address type: 1
+2024-05-28 04:59:40,056 - DEBUG - Resolved IPv4 address: 4.2.2.2
+2024-05-28 04:59:40,056 - DEBUG - Connecting to 4.2.2.2:53
